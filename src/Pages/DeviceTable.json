@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "location": "Location 1",
+    "deviceCode": "Device Code 1",
+    "deviceName": "Device Name 1",
+    "plantType": "Plant Type 1",
+    "status": "Pending"
+  },
+  {
+    "id": "2",
+    "location": "Location 2",
+    "deviceCode": "Device Code 2",
+    "deviceName": "Device Name 2",
+    "plantType": "Plant Type 2",
+    "status": "Pending"
+  }
+]
